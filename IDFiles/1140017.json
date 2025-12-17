@@ -1,0 +1,1009 @@
+{
+  "points": [
+    {
+      "frequency_kHz": 40.0,
+      "current_A": 59.5,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 40.16,
+      "current_A": 59.39,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 40.32,
+      "current_A": 59.18,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 40.49,
+      "current_A": 59.08,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 40.65,
+      "current_A": 58.97,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 40.82,
+      "current_A": 58.56,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 40.98,
+      "current_A": 58.38,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 41.15,
+      "current_A": 58.1,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 41.32,
+      "current_A": 57.96,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 41.49,
+      "current_A": 57.79,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 41.67,
+      "current_A": 57.58,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 41.84,
+      "current_A": 57.2,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 42.02,
+      "current_A": 57.0,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 42.19,
+      "current_A": 56.82,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 42.37,
+      "current_A": 56.49,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 42.55,
+      "current_A": 56.18,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 42.74,
+      "current_A": 56.08,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 42.92,
+      "current_A": 55.9,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 43.1,
+      "current_A": 55.76,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 43.29,
+      "current_A": 55.38,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 43.48,
+      "current_A": 55.18,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 43.67,
+      "current_A": 54.95,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 43.86,
+      "current_A": 54.4,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 44.05,
+      "current_A": 54.19,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 44.25,
+      "current_A": 54.05,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 44.44,
+      "current_A": 53.89,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 44.64,
+      "current_A": 53.68,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 44.84,
+      "current_A": 53.28,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 45.05,
+      "current_A": 53.0,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 45.25,
+      "current_A": 52.86,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 45.45,
+      "current_A": 52.37,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 45.66,
+      "current_A": 52.1,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 45.87,
+      "current_A": 52.04,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 46.08,
+      "current_A": 51.9,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 46.3,
+      "current_A": 51.45,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 46.51,
+      "current_A": 51.2,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 46.73,
+      "current_A": 51.0,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 46.95,
+      "current_A": 50.8,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 47.17,
+      "current_A": 50.6,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 47.39,
+      "current_A": 50.4,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 47.62,
+      "current_A": 50.2,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 47.85,
+      "current_A": 50.0,
+      "isFocus": 1
+    },
+    {
+      "frequency_kHz": 48.08,
+      "current_A": 49.91,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 48.3,
+      "current_A": 49.8,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 48.54,
+      "current_A": 49.6,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 48.78,
+      "current_A": 49.4,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 49.02,
+      "current_A": 49.2,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 49.26,
+      "current_A": 49.0,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 49.5,
+      "current_A": 48.8,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 49.75,
+      "current_A": 48.6,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 50.0,
+      "current_A": 48.4,
+      "isFocus": 1
+    },
+    {
+      "frequency_kHz": 50.25,
+      "current_A": 48.29,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 50.51,
+      "current_A": 48.17,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 50.76,
+      "current_A": 47.83,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 51.02,
+      "current_A": 47.49,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 51.28,
+      "current_A": 47.15,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 51.55,
+      "current_A": 46.81,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 51.81,
+      "current_A": 46.47,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 52.08,
+      "current_A": 46.13,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 52.36,
+      "current_A": 45.79,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 52.63,
+      "current_A": 45.45,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 52.91,
+      "current_A": 45.11,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 53.19,
+      "current_A": 44.77,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 53.48,
+      "current_A": 44.43,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 53.76,
+      "current_A": 44.09,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 54.05,
+      "current_A": 43.75,
+      "isFocus": 1
+    },
+    {
+      "frequency_kHz": 54.35,
+      "current_A": 43.5,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 54.64,
+      "current_A": 43.46,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 54.95,
+      "current_A": 43.06,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 55.25,
+      "current_A": 42.66,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 55.56,
+      "current_A": 42.26,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 55.87,
+      "current_A": 41.86,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 56.18,
+      "current_A": 41.46,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 56.5,
+      "current_A": 41.06,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 56.82,
+      "current_A": 40.66,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 57.14,
+      "current_A": 40.26,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 57.47,
+      "current_A": 39.86,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 57.8,
+      "current_A": 39.46,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 58.14,
+      "current_A": 39.06,
+      "isFocus": 1
+    },
+    {
+      "frequency_kHz": 58.47,
+      "current_A": 38.94,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 58.82,
+      "current_A": 38.64,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 59.17,
+      "current_A": 38.34,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 59.52,
+      "current_A": 38.04,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 59.88,
+      "current_A": 37.74,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 60.24,
+      "current_A": 37.44,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 60.6,
+      "current_A": 37.14,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 60.97,
+      "current_A": 36.84,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 61.34,
+      "current_A": 36.54,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 61.73,
+      "current_A": 36.24,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 62.11,
+      "current_A": 35.94,
+      "isFocus": 1
+    },
+    {
+      "frequency_kHz": 62.5,
+      "current_A": 35.88,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 62.89,
+      "current_A": 35.82,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 63.29,
+      "current_A": 35.7,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 63.69,
+      "current_A": 35.58,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 64.1,
+      "current_A": 35.46,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 64.52,
+      "current_A": 35.34,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 64.94,
+      "current_A": 35.22,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 65.36,
+      "current_A": 35.1,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 65.79,
+      "current_A": 34.98,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 66.23,
+      "current_A": 34.86,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 66.67,
+      "current_A": 34.74,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 67.11,
+      "current_A": 34.62,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 67.57,
+      "current_A": 34.5,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 68.03,
+      "current_A": 34.38,
+      "isFocus": 1
+    },
+    {
+      "frequency_kHz": 68.49,
+      "current_A": 34.19,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 68.97,
+      "current_A": 34.05,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 69.44,
+      "current_A": 33.65,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 69.93,
+      "current_A": 33.25,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 70.42,
+      "current_A": 32.85,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 70.92,
+      "current_A": 32.45,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 71.43,
+      "current_A": 32.05,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 71.94,
+      "current_A": 31.65,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 72.46,
+      "current_A": 31.25,
+      "isFocus": 1
+    },
+    {
+      "frequency_kHz": 72.99,
+      "current_A": 31.16,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 73.53,
+      "current_A": 31.05,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 74.07,
+      "current_A": 30.88,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 74.63,
+      "current_A": 30.71,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 75.19,
+      "current_A": 30.54,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 75.76,
+      "current_A": 30.37,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 76.34,
+      "current_A": 30.2,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 76.92,
+      "current_A": 30.03,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 77.52,
+      "current_A": 29.86,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 78.13,
+      "current_A": 29.69,
+      "isFocus": 1
+    },
+    {
+      "frequency_kHz": 78.74,
+      "current_A": 29.48,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 79.37,
+      "current_A": 29.16,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 80.0,
+      "current_A": 28.64,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 80.65,
+      "current_A": 28.12,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 81.3,
+      "current_A": 27.6,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 81.97,
+      "current_A": 27.08,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 82.64,
+      "current_A": 26.56,
+      "isFocus": 1
+    },
+    {
+      "frequency_kHz": 83.33,
+      "current_A": 26.45,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 84.03,
+      "current_A": 26.32,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 84.75,
+      "current_A": 26.1,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 85.47,
+      "current_A": 25.88,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 86.21,
+      "current_A": 25.66,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 86.96,
+      "current_A": 25.44,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 87.72,
+      "current_A": 25.22,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 88.5,
+      "current_A": 25.0,
+      "isFocus": 1
+    },
+    {
+      "frequency_kHz": 89.29,
+      "current_A": 24.91,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 90.09,
+      "current_A": 24.74,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 90.91,
+      "current_A": 24.48,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 91.74,
+      "current_A": 24.22,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 92.59,
+      "current_A": 23.96,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 93.46,
+      "current_A": 23.7,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 94.34,
+      "current_A": 23.44,
+      "isFocus": 1
+    },
+    {
+      "frequency_kHz": 95.24,
+      "current_A": 23.21,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 96.15,
+      "current_A": 23.08,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 97.09,
+      "current_A": 22.76,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 98.04,
+      "current_A": 22.44,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 99.01,
+      "current_A": 22.12,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 100.0,
+      "current_A": 21.8,
+      "isFocus": 1
+    },
+    {
+      "frequency_kHz": 101.01,
+      "current_A": 21.72,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 102.04,
+      "current_A": 21.59,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 103.09,
+      "current_A": 21.43,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 104.17,
+      "current_A": 21.27,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 105.26,
+      "current_A": 21.11,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 106.38,
+      "current_A": 20.95,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 107.53,
+      "current_A": 20.79,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 108.7,
+      "current_A": 20.63,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 109.89,
+      "current_A": 20.47,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 111.11,
+      "current_A": 20.31,
+      "isFocus": 1
+    },
+    {
+      "frequency_kHz": 112.36,
+      "current_A": 19.93,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 113.64,
+      "current_A": 19.55,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 114.94,
+      "current_A": 19.17,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 116.28,
+      "current_A": 18.79,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 117.65,
+      "current_A": 18.41,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 119.05,
+      "current_A": 18.03,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 120.48,
+      "current_A": 17.65,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 121.95,
+      "current_A": 17.27,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 123.46,
+      "current_A": 16.89,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 125.0,
+      "current_A": 16.51,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 126.58,
+      "current_A": 16.13,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 128.21,
+      "current_A": 15.75,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 129.87,
+      "current_A": 15.37,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 131.58,
+      "current_A": 14.99,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 133.33,
+      "current_A": 14.61,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 135.14,
+      "current_A": 14.23,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 136.99,
+      "current_A": 13.85,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 138.89,
+      "current_A": 13.47,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 140.85,
+      "current_A": 13.09,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 142.86,
+      "current_A": 12.71,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 144.93,
+      "current_A": 12.33,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 147.06,
+      "current_A": 11.95,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 149.25,
+      "current_A": 11.57,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 151.52,
+      "current_A": 11.19,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 153.85,
+      "current_A": 10.81,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 156.25,
+      "current_A": 10.43,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 158.73,
+      "current_A": 10.05,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 161.29,
+      "current_A": 9.67,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 163.93,
+      "current_A": 9.29,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 166.67,
+      "current_A": 8.91,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 169.49,
+      "current_A": 8.53,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 172.41,
+      "current_A": 8.15,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 175.44,
+      "current_A": 7.77,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 178.57,
+      "current_A": 7.39,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 181.82,
+      "current_A": 7.01,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 185.19,
+      "current_A": 6.63,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 188.68,
+      "current_A": 6.25,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 192.31,
+      "current_A": 5.87,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 196.08,
+      "current_A": 5.49,
+      "isFocus": 0
+    },
+    {
+      "frequency_kHz": 200.0,
+      "current_A": 5.11,
+      "isFocus": 0
+    }
+  ]
+}
